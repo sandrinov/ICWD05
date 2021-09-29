@@ -10,6 +10,9 @@ using MyUtilities;
 
 namespace ConsoleApp_Framework
 {
+    /// <summary>
+    /// 
+    /// </summary>
     class MyClass { public String MyProperty { get; set; }}
     
     class Program

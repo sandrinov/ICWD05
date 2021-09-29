@@ -35,7 +35,6 @@ namespace WindowsForm_Framework
 
         private void maskedTextBox1_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
         {
-            e.
         }
     }
 }

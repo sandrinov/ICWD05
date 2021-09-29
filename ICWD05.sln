@@ -35,11 +35,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq4Entity", "Linq4Entity\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFRameworkWithEntity", "WebFRameworkWithEntity\WebFRameworkWithEntity.csproj", "{92488E8F-BE25-4E8F-8F9D-6C8576264E28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCoreDependency", "WebCoreDependency\WebCoreDependency.csproj", "{5E02BC2A-60E1-4029-9438-88B1FEB02381}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCoreDependency", "WebCoreDependency\WebCoreDependency.csproj", "{5E02BC2A-60E1-4029-9438-88B1FEB02381}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDisposable", "ConsoleDisposable\ConsoleDisposable.csproj", "{F4AE2B7E-9684-4125-9AA2-F9AC1FA1326F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormAsync", "FormAsync\FormAsync.csproj", "{10FFACAA-739A-4E39-83D9-FBD35A678A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Img", "Img\Img.csproj", "{938458E6-C6B0-48AF-97D6-8D858F2EC67D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{10FFACAA-739A-4E39-83D9-FBD35A678A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10FFACAA-739A-4E39-83D9-FBD35A678A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10FFACAA-739A-4E39-83D9-FBD35A678A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938458E6-C6B0-48AF-97D6-8D858F2EC67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938458E6-C6B0-48AF-97D6-8D858F2EC67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938458E6-C6B0-48AF-97D6-8D858F2EC67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938458E6-C6B0-48AF-97D6-8D858F2EC67D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

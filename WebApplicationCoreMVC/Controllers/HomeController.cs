@@ -18,7 +18,10 @@ namespace WebApplicationCoreMVC.Controllers
         {
             _logger = logger;
         }
-
+        /// <summary>
+        /// fsdf gdfg
+        /// </summary>
+        /// <returns></returns>
         public async Task<IActionResult> Index()
         {
             HttpClient httpCli = new HttpClient();
